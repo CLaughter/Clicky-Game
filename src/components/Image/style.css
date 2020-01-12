@@ -1,0 +1,9 @@
+img {
+  width: 375px;
+  height: 375px;
+}
+
+.img-container {
+  display: inline-flex;
+  margin: 10px;
+}

@@ -1,0 +1,21 @@
+.spans {
+  text-shadow: 1px 1px crimson;
+  font-size: 34px;
+}
+
+span {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.quote {
+  font-size: 30px;
+}
+
+.result {
+  text-align: center;
+  font-size: 30px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}

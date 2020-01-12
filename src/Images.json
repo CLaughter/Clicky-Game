@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "imgURL": "./hd1.png",
+    "isClicked": false
+  },
+  {
+    "id": 2,
+    "imgURL": "./hd2.png",
+    "isClicked": false
+  },
+  {
+    "id": 3,
+    "imgURL": "./hd3.png",
+    "isClicked": false
+  },
+  {
+    "id": 4,
+    "imgURL": "./hd4.png",
+    "isClicked": false
+  },
+  {
+    "id": 5,
+    "imgURL": "./hd5.png",
+    "isClicked": false
+  },
+  {
+    "id": 6,
+    "imgURL": "./hd6.png",
+    "isClicked": false
+  },
+  {
+    "id": 7,
+    "imgURL": "./hd7.png",
+    "isClicked": false
+  },
+  {
+    "id": 8,
+    "imgURL": "./hd8.png",
+    "isClicked": false
+  },
+  {
+    "id": 9,
+    "imgURL": "./hd9.png",
+    "isClicked": false
+  }
+]

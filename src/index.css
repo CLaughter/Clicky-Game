@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  background-color: #803500;
+}
+
+#bottom {
+  background-color: rgb(54, 54, 54);
+  color: white;
+  text-align: center;
+  font-size: small;
+  padding: 5px;
+  padding-top: 1px;
+  padding-bottom: 2px;
+  margin: 0;
+  width: 100%;
+  height: 20px;
+  position: fixed;
+  bottom: 0;
+}
+
+#footer {
+  position: static;
+}

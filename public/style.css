@@ -1,0 +1,16 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #ECEFF1;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.images {
+  width: 680px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
