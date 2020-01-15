@@ -3,9 +3,10 @@
   font-family: sans-serif;
 }
 
-html, body, #root {
-  padding: 0;
-  margin: 0;
+html,
+body,
+#root {
+  width: auto;
   height: 100%;
   background-color: #803500;
 }

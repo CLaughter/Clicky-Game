@@ -1,20 +1,23 @@
 .title {
-  font-size: 200px;
+  font-size: 40px;
   text-align: center;
   background-color: #000000;
   color: rgb(240, 88, 17);
   padding-bottom: 10px;
+  /* width: auto; */
   -webkit-animation: glow 1s ease-in-out infinite alternate;
   -moz-animation: glow 1s ease-in-out infinite alternate;
   animation: glow 1s ease-in-out infinite alternate;
 }
 @-webkit-keyframes glow {
   from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #9e0685, 0 0 40px #9e0685, 0 0 50px #9e0685, 0 0 60px #9e0685, 0 0 70px #9e0685;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #9e0685,
+      0 0 40px #9e0685, 0 0 50px #9e0685, 0 0 60px #9e0685, 0 0 70px #9e0685;
   }
-  
+
   to {
-    text-shadow: 0 0 20px #fff, 0 0 30px #462234, 0 0 40px #462234, 0 0 50px #462234, 0 0 60px #462234, 0 0 70px #462234, 0 0 80px #462234;
+    text-shadow: 0 0 20px #fff, 0 0 30px #462234, 0 0 40px #462234,
+      0 0 50px #462234, 0 0 60px #462234, 0 0 70px #462234, 0 0 80px #462234;
   }
 }
 
