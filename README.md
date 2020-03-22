@@ -1,4 +1,6 @@
-# clicky-game
+https://claughter.github.io/clicky-game/
+
+# Hog Memory Game
 
 ### The application renders different Harley-Davidson Motorcycle images to the screen. Each image listens for click events.
 
